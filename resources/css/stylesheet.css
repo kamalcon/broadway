@@ -9,8 +9,11 @@ body {
 	color: white;
 }
 
-a {
+nav a {
 	display: block;
+}
+
+a {
 	font-size: 18px;
 }
 
@@ -32,4 +35,14 @@ h3 {
 
 p {
 	font-size: 14px;
+}
+
+#footer {
+	background-color: dimgray;
+	text-align: left;
+}
+
+#footer p {
+	font-size: 11px;
+	display: inline;
 }
